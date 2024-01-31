@@ -1,1 +1,1 @@
-{"email": "1@", "password": "123456789", "ids": "1", "spammsg":"Default"}
+{"email": "<your_email>", "password": "<your_password>", "ids": "<your_ids_space>", "spammsg":"<your_spammsg>"}
