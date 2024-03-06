@@ -1,1 +1,1 @@
-{"email":"<your_email>","password":"<your_password>","ids":"<your_ids_space>","spammsg":"<your_spammsg>","keywords":"<your_keywords>,"tg_chat_id":"<your_tg_chat_id>","victim_id":"<victim_user_id>","bullymsg":"<your_bully_message>"}
+{"email":"<your_email>","password":"<your_password>","ids":"<your_ids_space>","spammsg":"<your_spammsg>","keywords":"<your_keywords>,"tg_chat_id":"<your_tg_chat_id>","toxicmsg":"<your_toxic_reply>","bullymsg":"<your_bully_message>"}
