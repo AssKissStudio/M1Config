@@ -5,6 +5,7 @@
 "spammsg":"<your_spammsg>",
 "keywords":"<your_keywords>",
 "tg_chat_id":"<your_tg_chat_id>",
-"toxicmsg":"<your_toxic_reply>",
-"bullymsg":"<your_bully_message>"
+"toxicmsg":"<your_toxic_replies>",
+"bullymsg":"<your_bully_messages>"
+"onlinemsg":"<your_online_message>"
 }
